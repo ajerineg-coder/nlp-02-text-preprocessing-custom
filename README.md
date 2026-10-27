@@ -1,4 +1,4 @@
-# nlp-02-text-preprocessing
+# nlp-02-text-preprocessing-custom
 
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](pyproject.toml)
 [![CI](https://github.com/denisecase/nlp-02-text-preprocessing/actions/workflows/ci-python-zensical.yml/badge.svg)](https://github.com/denisecase/nlp-02-text-preprocessing/actions/workflows/ci-python-zensical.yml)
@@ -13,11 +13,13 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Addie Gemmell
 
 Date: 2026 October
 
-Second project in the Web Mining and Applied NLP course.
+Custom text preprocessing project for the Web Mining and Applied NLP course.
+
+This project will explore preprocessing financial fraud-related text and how preprocessing affects word frequencies.
 
 This project introduces text preprocessing,
 an important foundation for natural language processing.

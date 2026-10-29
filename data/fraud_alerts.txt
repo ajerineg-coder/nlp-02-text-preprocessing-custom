@@ -1,0 +1,15 @@
+Customer reported an unauthorized debit card transaction.
+Customer reported multiple unauthorized online purchases.
+Fraud alert generated for unusual debit card activity.
+Customer disputed an unauthorized Amazon purchase.
+Debit card was closed after fraudulent transactions were reported.
+Customer reported suspicious online card activity.
+Fraud alert generated after multiple unusual purchases.
+Customer disputed several debit card transactions.
+Unauthorized transactions were reported on the customer's debit card.
+Customer reported fraudulent online purchases.
+Debit card activity showed multiple suspicious transactions.
+Fraud alert generated for unauthorized card purchases.
+Customer reported an unknown online transaction.
+Multiple fraudulent transactions were disputed by the customer.
+Debit card was closed due to suspected fraud.
